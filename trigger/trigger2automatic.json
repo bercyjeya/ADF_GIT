@@ -1,0 +1,18 @@
+{
+	"name": "trigger2automatic",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 5,
+				"startTime": "2025-10-02T06:35:00",
+				"endTime": "2025-10-02T12:25:00",
+				"timeZone": "India Standard Time"
+			}
+		}
+	}
+}

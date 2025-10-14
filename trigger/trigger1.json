@@ -1,0 +1,17 @@
+{
+	"name": "trigger1",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"blobPathBeginsWith": "/mycontainer/blobs/foldera",
+			"ignoreEmptyBlobs": true,
+			"scope": "/subscriptions/8110b00c-4f1d-430d-a307-e301f8573e8c/resourceGroups/bercyresourcegroup/providers/Microsoft.Storage/storageAccounts/bercyadlsstorageaccount",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}

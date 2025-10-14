@@ -1,0 +1,9 @@
+{
+	"name": "bercydatafactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b656c81c-6c43-4c58-941c-501d18f67bdd",
+		"tenantId": "c1dc15c8-fd7e-4c34-8acb-d0e7d7d99661"
+	}
+}
