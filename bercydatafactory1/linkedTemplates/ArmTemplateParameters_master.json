@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "bercydatafactory1"
 		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
+		},
 		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
